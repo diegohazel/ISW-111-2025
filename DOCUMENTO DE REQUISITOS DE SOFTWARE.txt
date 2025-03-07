@@ -12,12 +12,29 @@
 
 ### 1.5. Descripción general.
 
-
 ## 2. Requisitos.
 
 ### 2.1. Requisitos funcionales.
+1. Debe tener botón de botón de RIDES.
+2. Un shortcut de el historial "Last Travels".
+3. Google Maps integrado y ubicación escrita vinculada.
+4. Metodos y Pasarela de Pagos.
+5. Opción de registro de pasajeros; foto, carnet, nombre completo y edad.
+6. Botón de Support (Soporte al Cliente).
+7. Apartado de Gifts and Discounts para solacer cupones, descuentos y reembolsos.
+8. Opción de Taxi Confort, Economy & Confort+.
+9. Apartado de agregar contacto de seguridad.
+10. Display donde aparezca la ubicación e identidad del conductor.
+11. Chat integrado para la comunicación el conductor/pasajero.
+12. Opción de Rating de 1 a 5 estrellas después del viaje.
+13. Feedback para la APP y para los Choferes.
+14. Pantalla para puntuar el app en APP Store o Google play store.
+15. Opción para que lleguen notificaciones cuándo el rider este cerca.
 
 ### 2.2. Requisitos de diseño.
+1. Minimalista
+2. Moderna
+3. Mantener una combinación de colores Rojos, Blancos y Negro.
 
 ### 2.3. Requisitos no funcionales.
 

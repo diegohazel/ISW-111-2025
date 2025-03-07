@@ -11,6 +11,12 @@
 ### 1.4. Uso previo.
 
 ### 1.5. Descripción general.
+	Tacherango es una aplicación de transporte que conecta a pasajeros y conductores de manera rápida y segura en toda Bolivia. 
+	Disponible en dispositivos móviles y sitios web, permite pagos electrónicos a través de QR, registro de conductores con verificación de datos como carnet de identidad,
+	número de celular y contacto de emergencia. La app utiliza geolocalización en tiempo real mediante la API de Google Maps, 
+	muestra la cantidad de pasajeros por viaje y permite la valoración del servicio al final de cada trayecto. Tacherango está disponible en español, inglés, portugués, guaraní y aymara, 
+	y cubre todos los departamentos de Bolivia. Con un diseño moderno, juvenil y minimalista, la app asegura un funcionamiento óptimo con conexión a internet estable y seguridad avanzada. 
+	Además, se actualiza regularmente para garantizar un servicio de calidad y soporta entre 10,000 y 100,000 usuarios simultáneos.
 
 ## 2. Requisitos.
 
@@ -37,5 +43,8 @@
 3. Mantener una combinación de colores Rojos, Blancos y Negro.
 
 ### 2.3. Requisitos no funcionales.
+	- Seguridad: Abarca una seguridad alta.
+	- Internet: Cuenta con un internet estable.
+	- Soporte: Con un soporte regular con mejoras continuas
 
 
